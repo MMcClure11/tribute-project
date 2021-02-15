@@ -55,6 +55,10 @@ figure {
   margin: 2.25rem; 
 }
 
+#tribute-info {
+  font-size: 1.5rem; 
+}
+
 section {
   display: block;
 }
