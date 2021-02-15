@@ -75,8 +75,10 @@ ul {
   margin: 0 auto 4rem auto;
   text-align: left;
   line-height: 1.6;
+  font-size: 1.25rem;
 }
 
 li {
   margin: 1rem;
 }
+
