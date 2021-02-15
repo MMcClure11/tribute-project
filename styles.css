@@ -20,3 +20,7 @@ main {
   margin-right: auto;
   max-width: 800px;
 }
+
+#list {
+  list-style: none;
+}
