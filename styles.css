@@ -35,11 +35,11 @@ figure {
   display: block;
 }
 
-#img-div {
+/* #img-div {
     background: white;
     padding: 1.25rem;
     border-radius: .5rem;
-}
+} */
 
 #image {
   display: block;
@@ -57,6 +57,9 @@ figure {
 
 #tribute-info {
   font-size: 1.5rem; 
+  background: rgb(238, 245, 248);
+  padding: 1.25rem;
+  border-radius: .5rem;
 }
 
 section {
