@@ -42,19 +42,19 @@ section {
 }
 
 #headline {
-  margin: 4rem 0;
+  margin: 4rem;
   text-align: center;
 }
 
 ul {
   display: block;
   list-style-type: disc;  
-  max-width: 750px;
-  margin: 0 auto 50px auto;
+  max-width: 35rem;
+  margin: 0 auto 4rem auto;
   text-align: left;
   line-height: 1.6;
 }
-g
+
 li {
-  margin: 16px 0;
+  margin: 1rem;
 }
